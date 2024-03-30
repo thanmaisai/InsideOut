@@ -17,7 +17,7 @@ const Header = () => {
   <Container size={"lg"}>
    <div style={{display:'flex', justifyContent:'space-between', alignItems:'center', padding:"10px 0px"}}>
         <Text size="xl" color={"black"}>
-          MoneyMap
+          KhathaBook
         </Text>
 
         <Menu
