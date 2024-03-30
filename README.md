@@ -21,4 +21,3 @@ A react app which is used to track all tranctions, you can over look at the expe
     <td><img src="https://github.com/thanmaisai/InsideOut/blob/main/img4.png"</td>
     </tr>
  </table>
-# InsideOut
